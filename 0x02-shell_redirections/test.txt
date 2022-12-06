@@ -11,3 +11,5 @@ line 10
 line 11
 line 12
 line 13
+tail -n 1 test.txt
+tail -n 1 test.txt
