@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Creates infinite loop with sleep 2. Ctrl-C stops the loop
+
+while true
+do
+	echo "To infinity and beyond"
+	sleep 2
+done
