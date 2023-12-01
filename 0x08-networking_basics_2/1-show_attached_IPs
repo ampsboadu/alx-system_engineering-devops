@@ -2,3 +2,4 @@
 # Bash script displays all active IPv4s on machine
 
 ifconfig | grep "inet addr" | cut -d":" -f2 | cut -d" " -f1
+
